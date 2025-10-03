@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou a Julia Fernandes Costa da Cruz 👋
 
-<!--
-**JuliadaCruz/JuliadaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Estudante de Ciências da Computação** | Estudante de **Desenvolvimento Java** | Apaixonada por tecnologia e novos desafios
+---
 
-Here are some ideas to get you started:
+## 🌟 Sobre mim
+- Amo aprender novas linguagens de programação  
+- Curiosa por **Inteligência Artificial** e desenvolvimento web  
+- Sempre buscando evoluir como desenvolvedora
+- Curso ciência da computação na unip
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias que uso
+- Java  
+- Python
+- SQL  
+- HTML / CSS  
+- Git / GitHub  
+
+---
+
+## 📫 Contato
+- Email: cruzjulia@uol.com.br
+---
+
+✨ Obrigada por visitar meu perfil! ✨
+
+
